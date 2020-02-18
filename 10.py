@@ -1,0 +1,7 @@
+t1=(0,2,3)
+x=all(t1)
+y=any(t1)
+z=enumerate(t1)
+print(x)
+print(y)
+print(z)
